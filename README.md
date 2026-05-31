@@ -8,7 +8,7 @@ This project is an interactive Power BI dashboard designed to analyze sales perf
 - Profit Tracking
 - KPI Dashboard
 - Interactive Filters
-- Region-wise Performance
+  
 
 ## 🛠 Tools Used
 - Power BI
