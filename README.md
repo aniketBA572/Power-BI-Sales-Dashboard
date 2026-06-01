@@ -14,7 +14,7 @@ This project is an interactive Power BI dashboard designed to analyze sales perf
 - Power BI
 - Excel
 - DAX
-- Data Visualization
+- Data Visualition
 
 ## 📷 Dashboard Preview
 [![Dashboard](Screenshot%202026-05-05%20164647.png)](Screenshot%202026-05-05%20164647.png)
